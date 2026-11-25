@@ -1,44 +1,47 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mithul%20Pranav%20KK&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Problem%20Solver&descAlignY=54&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Mithul%20Pranav%20KK&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mithul+Pranav+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;M.Sc+Software+Systems+%40+KEC;SIH+2024+College+Finalist+%F0%9F%8F%86;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mithul--pranav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithul-pranav)
-[![GitHub](https://img.shields.io/badge/GitHub-MithulWp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MithulWp)
-[![Email](https://img.shields.io/badge/Email-mithulpranavkk.23msc%40kongu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithulpranavkk.23msc@kongu.edu)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%206380729352-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916380729352)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Intern+%40+DC+Innovision;Building+scalable+full-stack+web+apps;React+%7C+Node.js+%7C+Laravel+%7C+Python;Exploring+NLP+%26+Explainable+ML;Open+to+internships+%26+entry-level+roles" alt="Typing SVG" />
+</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MithulWp&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/MSc-Software%20Systems-0A66C2?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-8.0%2F10-orange?style=for-the-badge&logo=starship&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/mithul-pranav"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mithulpranavkk.23msc@kongu.edu"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/MithulWp"><img src="https://img.shields.io/badge/GitHub-MithulWp-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=MithulWp&label=Profile%20Views&color=36BCF7&style=flat-square" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
-const mithulPranav = {
-  name:        "Mithul Pranav KK",
-  role:        "Software Developer Trainee | Fresher",
-  education:   "M.Sc Software Systems @ Kongu Engineering College",
-  cgpa:        8.0,
-  location:    "Kuppandapalayam, Tamil Nadu, India 📍",
-  languages:   ["English", "Tamil"],
-  currentFocus: "Building scalable full-stack web applications",
-  funFact:     "I was a SIH 2024 college finalist at just my 2nd year! 🏆",
-  available:   true, // Open to internships & opportunities
+```js
+const mithul = {
+  name:      "Mithul Pranav KK",
+  role:      "Software Development Intern @ DC Innovision Private Limited",
+  education: "MSc Software Systems — Kongu Engineering College (2023 – 2028)",
+  focus:     ["Full-Stack Development", "Real-time Systems", "Machine Learning"],
+  currentlyBuilding: ["SnapShare", "FactoryOS", "CampusCore ERP", "DASA TECH"],
+  currentlyLearning: ["NLP", "Explainable AI (SHAP)", "Ensemble Learning"],
+  lookingFor: "Software development internship / entry-level role 🚀",
+  funFact:    "I build with AI-assisted dev tools and still love reading the docs 😄"
 };
 ```
 
-> *"Motivated to learn, adapt, and contribute to real-world projects while building efficient, scalable solutions in collaborative team environments."*
+I build **full-stack web applications** in team-based environments — from multi-tenant SaaS platforms and real-time IoT dashboards to enterprise ERPs and computer-vision products — with secure **JWT authentication** and **Role-Based Access Control (RBAC)** at the core.
 
 ---
 
@@ -46,77 +49,92 @@ const mithulPranav = {
 
 <div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php&perline=7" />
 
-### 🔧 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🌐 Frontend & Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,laravel,tailwind,vite&perline=8" />
+
+### 🗄️ Databases & ORM
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&perline=4" />
+
+### 🧠 ML & Tooling
+<img src="https://skillicons.dev/icons?i=flask,opencv,threejs,socketio,git,github,vscode&perline=7" />
 
 </div>
+
+<details>
+<summary><b>🔐 Security · 🤖 AI Tools · ✨ More</b></summary>
+<br/>
+
+| Category | Skills |
+|---|---|
+| 🔐 **Security & Access** | JWT Authentication, RBAC (Spatie RBAC), QR-based access |
+| 🤖 **AI Tools** | ChatGPT, Claude, Gemini, Copilot, Cursor, Windsurf, Antigravity, Perplexity |
+| 🧪 **ML Libraries** | LightGBM, XGBoost, CatBoost, SHAP, InsightFace, OpenCV |
+| ⚡ **Real-time & 3D** | Socket.IO, React Three Fiber, Three.js |
+| 🧰 **Other** | Mongoose, Multer, Sharp, MinIO (S3-compatible), DomPDF, Chart.js |
+
+</details>
+
+---
+
+## 💼 Experience
+
+### 🏢 Software Development Intern — DC Innovision Private Limited `2026 – Present`
+
+| Project | What I Worked On | Stack |
+|---|---|---|
+| 📸 **SnapShare** | Multi-tenant event-photography SaaS that finds a guest's photos from large event collections using selfie-based facial recognition. Python InsightFace microservice, JWT auth, RBAC, QR event access, S3-compatible storage. | `React 19` `Node.js` `Express` `Flask` `InsightFace` `OpenCV` `MongoDB` `MinIO` |
+| 🏭 **FactoryOS** | Real-time smart factory ERP + IoT MES with 22+ relational domain models, a 3D factory digital twin, and live machine telemetry & NFC operator scans. | `TypeScript` `React 19` `Node.js` `PostgreSQL` `Prisma` `Socket.IO` `Three.js` |
+| 🎓 **CampusCore ERP** | Institutional ERP across 14+ modules (admissions, fees, exams, HR/payroll, LMS, logistics) with 146+ Eloquent models, automated fee/payroll processing and QR document generation. | `Laravel 12` `PHP` `MySQL` `Blade` `Alpine.js` `Tailwind` `DomPDF` |
+| 🌐 **DASA TECH** *(ongoing)* | Enterprise digital platform presenting 7 IoT automation verticals with interactive telemetry simulations, multi-theme UI and lead-generation workflows. | `React 18` `Vite` `Tailwind` `Framer Motion` `Lenis` |
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Explainable Hybrid Ensemble for Employee Turnover</h3>
+      <p>Research project combining adaptive feature engineering with ensemble learning, using <b>SHAP</b> to explain the factors behind every prediction.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LightGBM-02A9EA?style=flat-square"/>
+      <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square"/>
+      <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🅿️ Smart Parking Slot Reservation System</h3>
+      <p>Full-stack platform with multi-category slot allocation, overlap-based <b>double-booking prevention</b>, AJAX reservations, QR parking passes and admin analytics.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔄 FILE FLUX — Universal File Converter</h3>
+      <p>Multi-format converter for spreadsheet, data, document and image workflows with drag-and-drop uploads, validation, server-side processing and temp-file cleanup.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sharp-99CC00?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎫 Anti-Ticket — Issue Tracking System</h3>
+      <p>Project, module and ticket lifecycle management with granular <b>RBAC</b>, asynchronous Fetch APIs, analytics dashboards and audit logging.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| ⚡ **[File Flux](#)** | Multi-format file converter (XML → Excel & more) with a React frontend and Node.js backend | `React` `Node.js` `MongoDB` `Express` | ✅ Completed |
-| 👁️ **[Face Recognition System](#)** | Real-time biometric identification using retina scan techniques and a large live facial dataset | `Python` `Computer Vision` `ML` | ✅ Completed |
-
-</div>
-
-### ⚡ File Flux — Multiple File Converter
-
-> A full-stack MERN application enabling seamless document format conversions with a responsive, drag-and-drop interface.
-
-- 🔄 Supports XML to Excel and multiple document format conversions
-- ⚛️ Built with **React JS** for an interactive, responsive frontend
-- 🟢 **Node JS** backend for efficient file processing pipelines
-- 🍃 **MongoDB** for user data and conversion metadata storage
-
-### 👁️ Face Recognition System
-
-> An AI-powered biometric system using retina scan techniques for accurate real-time facial identification.
-
-- 📸 Real-time image capture with live camera integration
-- 🧠 Trained on a large dataset generated from live facial photographs
-- 🔬 Retina scan techniques for high-accuracy identification
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🥇 Achievement | 📄 Details |
-|----------------|------------|
-| 🏆 **SIH 2024 Finalist** | College-level finalist at Smart India Hackathon 2024 with an innovative freelancing platform using an escrow account model |
-| 📚 **Data Structures — Java** | Successfully completed a focused course on Data Structures using Java |
-| 🎓 **8.0 CGPA** | Consistent academic excellence through 4 semesters of M.Sc Software Systems |
-
-</div>
+> 📌 Check out my pinned repositories below for source code and live demos.
 
 ---
 
@@ -124,66 +142,73 @@ const mithulPranav = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MithulWp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=06060f&title_color=6366f1&icon_color=06b6d4&text_color=e2e8f0"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MithulWp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithulWp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithulWp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=06060f&title_color=6366f1&text_color=e2e8f0"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MithulWp&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MithulWp&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
-<div align="center">
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MithulWp&theme=tokyonight&hide_border=true&background=06060f&ring=6366f1&fire=a855f7&currStreakLabel=06b6d4)](https://git.io/streak-stats)
+## 🏆 Achievements & Certifications
 
-</div>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🥇 Achievements
+- 🏅 College-level finalist, **Smart India Hackathon 2024** — escrow-based freelancing platform
+- 🎤 Presented at **Kongu Engineering College Techno Cultural Fest 2025**
+- 🚀 Participant, **NEXUS'25** national technical symposium & **HACKWAVE-24** hackathon
+
+</td>
+<td valign="top" width="50%">
+
+### 📜 Certifications
+- ☕ Oracle Certified Foundations Associate, Java — *Oracle University (2026)*
+- 📈 Data Analytics Job Simulation — *Deloitte via Forage (2026)*
+- 🤖 Intro to Machine Learning — *Kaggle (2026)*
+- 🐍 Step-by-Step ML with Python — *Infosys Springboard (2026)*
+- ☁️ Cloud & Cybersecurity Basics — *Redrob (2026)*
+- 🧪 Selenium (Java & Python), API Testing (Gold) — *FutureSkills Prime / NASSCOM (2025)*
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education
-🏛️  Kongu Engineering College, Perundurai — 638060
 
-M.Sc Software Systems
-
-CGPA: 8.0 (up to 4th Semester)          📅 2023 – 2028
-🏫  S S M Lakshmi Ammal Matriculation Higher Secondary School
-
-SSLC & HSC
-
-Percentage: 82%                          📅 2021 – 2023
+| Program | Institution | Year |
+|---|---|---|
+| **MSc Software Systems** · CGPA 8.0/10 *(through 4th sem)* | Kongu Engineering College, Perundurai | 2023 – 2028 *(expected)* |
+| **Higher Secondary** · 82% | S.S.M. Lakshmi Ammal Matriculation Hr. Sec. School | 2021 – 2023 |
 
 ---
 
-## 📜 Certifications
-
-- 🎯 **C++ Programming** — Certified Course in Programming Fundamentals
-- ☕ **Data Structures Using Java** — Non-Formal Course in Algorithms & Problem Solving
-
----
-
-## 🤝 Soft Skills
+## 🤝 Let's Connect
 
 <div align="center">
 
-`🤝 Teamwork` &nbsp; `🧩 Problem Solving` &nbsp; `💡 Creative Thinking` &nbsp; `📊 Data Analysis` &nbsp; `🎯 Customer Orientation`
-
-</div>
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-I'm actively looking for **internship opportunities** and **entry-level roles** in software development.  
-If you have a project, collaboration, or position in mind — let's talk!
+I'm actively looking for a **software development internship or entry-level role** where I can contribute to full-stack development and grow with an engineering team.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithul-pranav)
-[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithulpranavkk.23msc@kongu.edu)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MithulWp)
+<a href="https://linkedin.com/in/mithul-pranav"><img src="https://img.shields.io/badge/LinkedIn-mithul--pranav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mithulpranavkk.23msc@kongu.edu"><img src="https://img.shields.io/badge/Email-mithulpranavkk.23msc@kongu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%22Code+is+poetry+that+machines+can+read.%22;Thanks+for+stopping+by!+%E2%AD%90+a+repo+if+you+like+it" alt="footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
